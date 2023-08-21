@@ -1,6 +1,6 @@
 # RIDER-DRIVEN-CANCELLATION-PREDICTION
 
-Given the order and rider details, create a model is developed that can predict rider-driven cancellation in advance (i.e. before getting marked as cancelled or delivered)
+A predictive model has been created to forecast rider-triggered order cancellations before they are officially marked as canceled or delivered, utilizing both order and rider details.
 
 The typical order flow goes like this:
 
